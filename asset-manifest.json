@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/card-bowl/static/css/main.8da3f2a4.chunk.css",
+    "main.js": "/card-bowl/static/js/main.934f6bb2.chunk.js",
+    "main.js.map": "/card-bowl/static/js/main.934f6bb2.chunk.js.map",
+    "runtime-main.js": "/card-bowl/static/js/runtime-main.48954544.js",
+    "runtime-main.js.map": "/card-bowl/static/js/runtime-main.48954544.js.map",
+    "static/js/2.0fbb6a2f.chunk.js": "/card-bowl/static/js/2.0fbb6a2f.chunk.js",
+    "static/js/2.0fbb6a2f.chunk.js.map": "/card-bowl/static/js/2.0fbb6a2f.chunk.js.map",
+    "index.html": "/card-bowl/index.html",
+    "static/css/main.8da3f2a4.chunk.css.map": "/card-bowl/static/css/main.8da3f2a4.chunk.css.map",
+    "static/js/2.0fbb6a2f.chunk.js.LICENSE.txt": "/card-bowl/static/js/2.0fbb6a2f.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/card-bowl/static/media/bg.7e6ac3f7.png",
+    "static/media/bowl1.6e56af91.png": "/card-bowl/static/media/bowl1.6e56af91.png",
+    "static/media/bowl2.b6048b03.png": "/card-bowl/static/media/bowl2.b6048b03.png",
+    "static/media/bowl3.a3c1cab5.png": "/card-bowl/static/media/bowl3.a3c1cab5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48954544.js",
+    "static/js/2.0fbb6a2f.chunk.js",
+    "static/css/main.8da3f2a4.chunk.css",
+    "static/js/main.934f6bb2.chunk.js"
+  ]
+}
